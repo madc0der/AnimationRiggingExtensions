@@ -1,0 +1,21 @@
+{
+    "name": "AnimationRiggingExtensionsEditor",
+    "rootNamespace": "AnimationRiggingExtensionsEditor",
+    "references": [
+        "GUID:2665a8d13d1b3f18800f46e256720795",
+        "GUID:fb9cb053522a2bb4caadd3306ddeba96",
+        "GUID:af4a3ceb227b8f94cb8375f40e156398",
+        "GUID:7f7d1af65c2641843945d409d28f2e20"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

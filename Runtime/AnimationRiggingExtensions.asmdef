@@ -1,0 +1,17 @@
+{
+    "name": "AnimationRiggingExtensions",
+    "rootNamespace": "AnimationRiggingExtensions",
+    "references": [
+        "GUID:2665a8d13d1b3f18800f46e256720795",
+        "GUID:7f7d1af65c2641843945d409d28f2e20"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
